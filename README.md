@@ -6,7 +6,7 @@ Software Developer, Ice Skater
 --------------------------
 
 * 🏡  I'm based in Warsaw,
-* 💻  I'm currently working on [job-offers-warehouse](http://gitlab.com/szytambsky1/job-offers-warehouse),
+* 💻  I'm currently working on [sibarium-marketplace](https://github.com/szytambsky/sibarium-marketplace),
 * 🔧  Maintainer of [Posbus](https://github.com/szytambsky/komunikacjalive),
 * 🔭  But above all, learning everything Java related
 
