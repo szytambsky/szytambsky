@@ -6,7 +6,7 @@ Software Developer, Ice Skater
 --------------------------
 
 * 🏡  I'm based in Warsaw,
-* 💻  I'm currently working on [E-shop](https://github.com/szytambsky/patients-crm-app),
+* 💻  I'm currently working on [E-store](https://github.com/szytambsky/patients-crm-app),
 * 🔧  Maintainer of [Posbus](https://github.com/szytambsky/komunikacjalive),
 * 🔭  But above all, learning everything Java related
 
