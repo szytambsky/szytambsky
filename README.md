@@ -6,7 +6,7 @@ Software Developer, Ice Skater
 --------------------------
 
 * 🏡  I'm based in Warsaw,
-* 💻  I'm currently working on [Insett](https://github.com/szytambsky/insett),
+* 💻  I'm currently working on [Insett](https://github.com/szytambsky/riftsync),
 * 🔧  Maintainer of [Posbus](https://github.com/szytambsky/komunikacjalive),
 * 🔭  But above all, learning everything Java related
 
